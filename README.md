@@ -1,2 +1,1 @@
-# NewCodingBot
-new repo
+print("Hello world")
